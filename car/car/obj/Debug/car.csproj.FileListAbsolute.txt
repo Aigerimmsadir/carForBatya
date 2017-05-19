@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\car\car\bin\Debug\car.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\car\car\bin\Debug\car.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\car\car\bin\Debug\car.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\car\car\obj\Debug\car.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\car\car\obj\Debug\car.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\car\car\obj\Debug\car.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\car\car\obj\Debug\car.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\car\car\obj\Debug\car.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\car\car\obj\Debug\car.pdb
+C:\Users\Lenovo\Desktop\my projects\car\car\bin\Debug\car.exe.config
+C:\Users\Lenovo\Desktop\my projects\car\car\obj\Debug\car.exe
+C:\Users\Lenovo\Desktop\my projects\car\car\obj\Debug\car.pdb
+C:\Users\Lenovo\Desktop\my projects\car\car\bin\Debug\car.exe
+C:\Users\Lenovo\Desktop\my projects\car\car\bin\Debug\car.pdb
+C:\Users\Lenovo\Desktop\my projects\car\car\obj\Debug\car.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\my projects\car\car\obj\Debug\car.Form1.resources
+C:\Users\Lenovo\Desktop\my projects\car\car\obj\Debug\car.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\my projects\car\car\obj\Debug\car.csproj.GenerateResource.Cache
